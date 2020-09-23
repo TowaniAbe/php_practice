@@ -2,10 +2,10 @@
 
 // kadai1
 $name = "abe_towani";
-if ($name == "yamada_tarou") {
-   echo "あなたの名前ではありません";
+if ($name = "abe_towani") {
+   echo "私はabe_towaniです". "\n";
  } else {
-   echo "わたしはabe towaniです" . "\n";
+   echo "あなたの名前ではありません" . "\n";
  }
  
 // kadai2
